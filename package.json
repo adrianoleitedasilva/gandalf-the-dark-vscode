@@ -1,0 +1,21 @@
+{
+  "name": "gandalf-the-dark",
+  "displayName": "gandalf-the-dark",
+  "description": "Gandalf the Dark – Um tema sombrio, elegante e poderoso para os que codam como verdadeiros magos.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gandalf, The Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gandalf, The Dark-color-theme.json"
+      }
+    ]
+  }
+}
